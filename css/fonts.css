@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Shantell Sans';
+    src: url('../fonts/ShantellSans-Light.eot');
+    src: url('../fonts/ShantellSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ShantellSans-Light.woff2') format('woff2'),
+        url('../fonts/ShantellSans-Light.woff') format('woff'),
+        url('../fonts/ShantellSans-Light.ttf') format('truetype'),
+        url('../fonts/ShantellSans-Light.svg#ShantellSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Single Day';
+    src: url('../fonts/SingleDay-Regular.eot');
+    src: url('../fonts/SingleDay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SingleDay-Regular.woff2') format('woff2'),
+        url('../fonts/SingleDay-Regular.woff') format('woff'),
+        url('../fonts/SingleDay-Regular.ttf') format('truetype'),
+        url('../fonts/SingleDay-Regular.svg#SingleDay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
