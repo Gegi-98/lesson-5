@@ -115,3 +115,40 @@ body {
 	font-size: 17px;
 	color: #FFFFFF;
 }
+/*footer*/
+.footer {
+	background-color: #A6ADB4;
+	padding: 56px 0 60px 142px;
+}
+.foot-logo {
+	display: inline-block;
+	vertical-align: top;
+}
+.foot-info {
+	margin-right: 75px;
+	display: inline-block; 
+	margin-left: 90px;
+}
+
+.foot-list {
+	color: #CBD0D3;
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+.post {
+	margin-left: 105px;
+	color: #CBD0D3;
+	font-size: 13px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 15px;
+}
+.soc-media {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 165px;
+}
+.soc-icon {
+	display: inline-block;
+	margin-right: 32px;
+}
