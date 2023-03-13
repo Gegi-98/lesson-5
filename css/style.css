@@ -285,3 +285,119 @@ body {
 	height: 700px;
 	margin: 100px auto 50px auto;
 	background-color: #000836;
+	position: relative;
+}
+.tetris-line {
+	width: 280px;
+  	height: 60px;
+  	margin-top: 640px;
+  	background: red;
+  	position: absolute;
+  	animation: line 5s 1;
+  }
+ .tetris-boomerang {
+ 	width: 280px;
+  	height: 60px;
+  	margin-top: 640px;
+  	margin-left: 280px;
+  	background: #F6F8F9;
+  	position: absolute;
+  	animation: boomerang 5s 1 5s;
+  }
+	.tetris-boomerang-height {
+		width: 60px;
+  		height: 120px;
+  		margin-top: 580px;
+  		margin-left: 280px;
+  		background: #F6F8F9;
+  		position: absolute;
+  		animation: boomerang-height 5s 1 5s;
+ 	}
+ 	.tetris-navel {
+ 		width: 280px;
+  		height: 60px;
+  		margin-top: 640px;
+  		margin-left: 560px;
+  		background: green;
+  		position: absolute;
+  		animation: navel 5s 1 10s;
+ 	}
+ 	.tetris-navel-center {
+ 		width: 60px;
+  		height: 120px;
+  		margin-top: 580px;
+  		margin-left: 670px;
+  		background: green;
+  		position: absolute;
+  		animation: navel-center 5s 1 10s;
+ 	}
+.duck-hunt-cont {
+	width: 1200px;
+	height: 700px;
+	margin: 100px auto 50px auto;
+	background-color: #66FF00;
+	position: relative;
+	z-index: -2;
+}
+.duck1 {
+	width: 70px;
+	position: absolute;
+	animation: duck1 7s infinite linear;
+}
+.duck2 {
+	width: 70px;
+	position: absolute;
+	animation: duck2 7s infinite linear;}
+.duck3 {
+		width: 70px;
+	position: absolute;
+	animation: duck3 7s infinite linear;
+}
+.blueduck1 {
+	width: 70px;
+	position: absolute;
+	animation: blueduck1 7s infinite linear;
+}
+.blueduck2 {
+	width: 70px;
+	position: absolute;
+	animation: blueduck2 7s infinite linear;
+}
+.blueduck3 {
+	width: 70px;
+	position: absolute;
+	animation: blueduck3 7s infinite linear;
+}
+.dog {
+	width: 150px;
+	position: absolute;
+	animation: dog 7s infinite linear;
+}
+.tree {
+	width: 250px;
+	position: absolute;
+	left: 200px;
+	bottom: 200px;
+	z-index: -1;
+}
+.tree2 {
+	width: 350px;
+	position: absolute;
+	left: 500px;
+	bottom: 250px;
+	z-index: -1
+}
+.tree3 {
+	width: 250px;
+	position: absolute;
+	left: 900px;
+	bottom: 150px;
+	z-index: -1
+}
+.tree4 {
+	width: 250px;
+	position: absolute;
+	left: 50px;
+	bottom: 150px;
+	z-index: -1
+}

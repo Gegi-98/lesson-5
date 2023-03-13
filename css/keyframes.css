@@ -1,0 +1,155 @@
+@keyframes line {
+	0% {top: -640px;
+		left: 400px;}
+	100% {
+		top: 0px;
+		left: 0px;}
+}
+@keyframes boomerang {
+	0% {top: -800px;
+		left: 0px;}
+	100% {
+		top: 0px;
+		left: 0px;}
+	}
+
+@keyframes boomerang-height {
+0% {top: -780px;
+	left: 0px;}
+100% {
+	top: -60px;
+	left: 0px;}
+}
+@keyframes navel {
+	0% {top: -780px;
+	left: 0px;}
+100% {
+	top: -60px;
+	left: 0px;}
+}
+@keyframes navel-center {
+	0% {top: -780px;
+	left: 0px;}
+100% {
+	top: -60px;
+	left: 0px;}
+}
+/*duckhunt*/
+@keyframes duck1 {
+	0% {
+		top: 90px;
+		right: 0;
+	}
+	25% {
+		top: 130px;
+		right: 270px;
+	}
+	50% {
+		top: 100px;
+		right: 680px;
+	}
+	100% {
+		top: 220px;
+		right: 1130px;
+	}
+}
+@keyframes duck2 {
+	0% {
+		top: 150px;
+		right: 0;
+	}
+	25% {
+		top: 95px;
+		right: 230px;
+	}
+	50% {
+		top: 270px;
+		right: 750px;
+	}
+	100% {
+		top: 175px;
+		right: 1130px;
+	}
+}
+@keyframes duck3 {
+	0% {
+		top: 300px;
+		right: 0;
+	}
+	25% {
+		top: 210px;
+		right: 140px;
+	}
+	50% {
+		top: 420px;
+		right: 695px;
+	}
+	100% {
+		top: 250px;
+		right: 1130px;
+	}
+}
+@keyframes blueduck1 {
+		0% {
+		top: 300px;
+		left: 0;
+	}
+	25% {
+		top: 210px;
+		left: : 140px;
+	}
+	50% {
+		top: 420px;
+		left: 695px;
+	}
+	100% {
+		top: 250px;
+		left: 1130px;
+	}
+	}
+	@keyframes blueduck2 {
+	0% {
+		top: 150px;
+		left: 0;
+	}
+	25% {
+		top: 95px;
+		left: 230px;
+	}
+	50% {
+		top: 270px;
+		left: 750px;
+	}
+	100% {
+		top: 175px;
+		left: 1130px;
+	}
+}
+@keyframes blueduck3 {
+	0% {
+		top: 90px;
+		left: 0;
+	}
+	25% {
+		top: 130px;
+		left: 270px;
+	}
+	50% {
+		top: 100px;
+		left: 680px;
+	}
+	100% {
+		top: 220px;
+		left: 1130px;
+	}
+}
+@keyframes dog {
+	0% {
+		top: 600px;
+		right: 0;
+	}
+	100% {
+		top: 600px;
+		right:  1130px;
+	}
+}
